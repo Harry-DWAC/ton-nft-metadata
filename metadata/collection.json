@@ -1,0 +1,12 @@
+{
+  "name": "AULS & DWAC Service Pass NFT",
+  "description": "Service Pass NFTs on TON for Atlantis University School of Law (AULS) and Digital World Arbitration Centre (DWAC). Grants access to Agent-Arbitrator training, degree certification, legal consultation, and arbitration services. Burn-to-redeem. Batch 1.",
+  "image": "https://github.com/Harry-DWAC/ton-nft-metadata/releases/download/v0.1-assets/dwac-pass-001-hd.png",
+  "external_url": "https://dwac.net",
+  "attributes": [
+    {"trait_type": "Blockchain", "value": "TON"},
+    {"trait_type": "Standard", "value": "TEP-62"},
+    {"trait_type": "Batch", "value": "1"},
+    {"trait_type": "Total Supply", "value": "100"}
+  ]
+}
