@@ -1,0 +1,42 @@
+{
+  "name": "DWAC Service Pass #008",
+  "description": "Digital World Arbitration Centre Service Pass NFT. Grants 1 professional digital legal consultation (≤60min) and 1 arbitration service (no limit on dispute value, 172-country enforceable). Burn-to-redeem. Batch 1 of 100.",
+  "image": "https://raw.githubusercontent.com/Harry-DWAC/ton-nft-metadata/main/assets/dwac-pass-001-hd.png",
+  "content_url": null,
+  "content_type": null,
+  "external_url": "https://raw.githubusercontent.com/Harry-DWAC/ton-nft-metadata/main/metadata/ton-dwac-pass-008.json",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "DWAC"
+    },
+    {
+      "trait_type": "Blockchain",
+      "value": "TON"
+    },
+    {
+      "trait_type": "Standard",
+      "value": "TEP-62"
+    },
+    {
+      "trait_type": "Batch",
+      "value": "1"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "8/50"
+    },
+    {
+      "trait_type": "Price",
+      "value": "1 TON"
+    },
+    {
+      "trait_type": "Redeem",
+      "value": "Burn-to-redeem"
+    },
+    {
+      "trait_type": "Network",
+      "value": "TON Mainnet"
+    }
+  ]
+}
