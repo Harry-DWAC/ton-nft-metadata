@@ -1,7 +1,7 @@
 {
   "name": "AULS Service Pass #022",
   "description": "Atlantis University School of Law Service Pass NFT. Grants access to full Agent-Arbitrator training program, degree certification, and DWAC recommendation letter. Burn-to-redeem. Batch 1 of 100.",
-  "image": "https://raw.githubusercontent.com/Harry-DWAC/ton-nft-metadata/main/assets/auls-pass-001-hd.png",
+  "image": "https://github.com/Harry-DWAC/ton-nft-metadata/releases/download/v0.1-assets/auls-pass-001-hd.png",
   "content_url": null,
   "content_type": null,
   "external_url": "https://raw.githubusercontent.com/Harry-DWAC/ton-nft-metadata/main/metadata/ton-auls-pass-022.json",
